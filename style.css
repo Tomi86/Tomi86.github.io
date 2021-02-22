@@ -6,7 +6,7 @@
 
 .header {
   font-family: 'Abril Fatface', cursive;
-  color: #222;
+  color:chocolate;
   font-size: 38px;
   width: 1200px;
   display: flex;
@@ -32,7 +32,7 @@ img {
 
 .first,.second,.third,.fourth, .footer {
   font-family: 'Josefin Sans', sans-serif;
-  color: #222;
+  color: chocolate;
   width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -43,7 +43,7 @@ blockquote {
   font-family: 'Abril Fatface', cursive;
   color: #fff;
   font-size: 46px;
-  background: #222;
+  background: chocolate;
   width: 800px;
   height: 200px;
   position: relative;
